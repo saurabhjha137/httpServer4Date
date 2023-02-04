@@ -1,5 +1,12 @@
 # httpServer4Date
-Problem Statement :
+Assesment 1 - Write an implementation of getElementById, which performs the same basic tasks as that of actual getElementById
+
+Solution - getElementByIdImplementation.js 
+This file having a code snippet for the same
+
+
+
+Assesment 2 - Problem Statement :
 
 Create a simple http server (with Nodejs or any language) and make it respond with answer to calendar questions like below :
 - add, 6 days to today return the date
