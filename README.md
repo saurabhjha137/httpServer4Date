@@ -16,6 +16,8 @@ node app.js
 Example URL :
 
 http://localhost:8080/?operation=subtract&value=1&dayOrWeek=week&date=today
+
 http://localhost:8080/?operation=add&value=10&dayOrWeek=day&date=today
+
 http://localhost:8080/?operation=add&value=10&dayOrWeek=day&date=10-feb-2023
 
