@@ -8,11 +8,13 @@ Create a simple http server (with Nodejs or any language) and make it respond wi
 
 
 Solution :
+
 from the url we are fetching the inputs and giving output for relevant action
 run the app.js file to start the server
 node app.js
 
 Example URL :
+
 http://localhost:8080/?operation=subtract&value=1&dayOrWeek=week&date=today
 http://localhost:8080/?operation=add&value=10&dayOrWeek=day&date=today
 http://localhost:8080/?operation=add&value=10&dayOrWeek=day&date=10-feb-2023
